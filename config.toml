@@ -12,6 +12,5 @@ integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
 arch = "arm64-v8a"
 build-mode = "module"
-excluded-patches = "'Alternative thumbnails' 'Change start page' 'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Custom double tap length' 'Custom package name' 'Disable QUIC protocol' 'Disable splash animation' 'Enable OPUS codec' 'Enable debug logging' 'Enable gradient loading screen' 'GmsCore support' 'Return YouTube Dislike' 'Translations for YouTube'"
-
+excluded-patches = "'Alternative thumbnails' 'Bypass image region restrictions' 'Change start page' 'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Custom double tap length' 'Disable splash animation' 'Enable OPUS codec' 'Enable debug logging' 'Enable gradient loading screen' 'GmsCore support' 'Return YouTube Dislike' 'Translations for YouTube'"
 
